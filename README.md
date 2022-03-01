@@ -1,5 +1,4 @@
-# Hello
-- Hi, I’m am full stack and blockchain developer.
+# Hello, there. I’m am full stack and blockchain developer.
 - Ethereum/Solidity and EVM compatible chains like Polygon, BSC, Avalanche, Flow/Cadence
 - React/Next, Typescript, Vue, Node/RESTful APIs, Python/Django, Django REST framwork.
 - SQL/NoSQL Databases.
