@@ -1,13 +1,9 @@
-# 👋Hello, there. I’m am full stack and blockchain developer.
-- Ethereum/Solidity and EVM compatible chains like Polygon, BSC, Avalanche
-- Solana, Cosmos Ecosystem, Polkadot Ecosystem, Flow/Cadence.
-- CosmosSDK and Substrate
-- NFT and Defi: Uniswap, Quickswap, One-inch, Sushiswap, FireBird
-- Chainlink, Gelato
-- Web3.js, Ethers.js, Polkadot.js
-- React/Next, Typescript, Vue, Node/RESTful APIs, Python/Django, Django REST framwork.
+# 👋Hello, there. I’m am full stack developer.
+- Python/Django, Django Rest Framework, Flask, FastAPI.
 - SQL/NoSQL Databases: MySql, Postgresql, MongoDB, Firebase.
+- React/Next, Typescript, Vue, Angular.
 - HTML, CSS(SCSS), Javascript.
+- Ethereum/Solidity and EVM compatible chains like Polygon, BSC, Avalanche
 - Communication: English, Chinese
 <!---
 freeCryptoDev/freeCryptoDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
