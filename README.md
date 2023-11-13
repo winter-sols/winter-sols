@@ -1,8 +1,8 @@
 # 👋Hello, there. I’m am full stack developer with blockchain experience.
-- Python/Django, Django Rest Framework, Flask, FastAPI.
-- SQL/NoSQL Databases: MySql, Postgresql, MongoDB, Firebase.
 - React/Next, Typescript, Vue, Angular.
 - HTML, CSS(SCSS), Javascript.
+- Node/Express, Nest, GraphQL
+- SQL/NoSQL Databases: MySql, Postgresql, MongoDB, Firebase.
 - Ethereum/Solidity and EVM compatible chains like Polygon, BSC, Avalanche
 - Communication: English, Chinese
 <!---
